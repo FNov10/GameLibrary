@@ -1,10 +1,8 @@
-# gamestore
+# GameStore
 
-## Build Setup
+## Description
 
-```bash
-# install dependencies
-$ npm install
+Simple
 
 # serve with hot reload at localhost:3000
 $ npm run dev
